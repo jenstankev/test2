@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a test file in a test repository.
 
 
@@ -40,3 +41,13 @@ This is a test file in a test repository.
 
 
 42
+=======
+This is a test file
+It contains words 
+and letters
+and spaces
+and capital letters
+and new lines
+and old lines
+and pretty much nothing else
+>>>>>>> test1.git/master
